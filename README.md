@@ -1,5 +1,6 @@
 # philnits-anki
-Philnits Reviewer Anki Cards!
+Philnits Exam Anki Reviewer Deck
 
-
-Original Cards are from the [philnits-vault](https://github.com/usc-cisco/philnits-vault) repository
+## Credits
+- Original Cards are from the [philnits-vault](https://github.com/usc-cisco/philnits-vault) repository <br>
+- [Anki Download](https://apps.ankiweb.net/)
